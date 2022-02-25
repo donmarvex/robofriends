@@ -1,7 +1,9 @@
 # A Robofriends web app created with React
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d7b86032-a1c1-4047-84b5-7f2c8ee822e9/deploy-status)](https://app.netlify.com/sites/robofriendswithme/deploys)
 
-Live deployment can be found [_here_](https://donmarvex.github.io/robofriends/)
+Live deployment can be found on;
+- Netlify [_here_](https://robofriendswithme.netlify.app/)
+- GitHub pages [_here_](https://donmarvex.github.io/robofriends/)
 
 The web app gets information about robot users through the {JSON} Placeholder API, which can be accessed  [_here_](https://jsonplaceholder.typicode.com/).
 
