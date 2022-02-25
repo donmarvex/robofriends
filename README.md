@@ -8,6 +8,8 @@ As the user interacts with the search component, the robots automatically get up
 
 To run this project locally for development purposes you can fork or clone the repository, have Node installed on your machine, and then run the following commands in your terminal.
 
+For deployment to netlify, you should remove the homepage property in the package.json file.
+
 `npm install`
 
 `npm start`
