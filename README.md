@@ -1,4 +1,5 @@
 # A Robofriends web app created with React
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d7b86032-a1c1-4047-84b5-7f2c8ee822e9/deploy-status)](https://app.netlify.com/sites/robofriendswithme/deploys)
 
 Live deployment can be found [_here_](https://donmarvex.github.io/robofriends/)
 
